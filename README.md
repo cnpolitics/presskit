@@ -7,4 +7,5 @@ Copyright © 2011–2016 [CNPolitics](http://cnpolitics.org/), all rights reserv
 - [Bitmap logotype (PSD)](http://cnpolitics.github.io/presskit/psd/Logotype_Website_V0.1.0.psd)
 
 #### WeChat assets
-- [The footer for reproducing on WeChat](http://cnpolitics.github.io/presskit/png/WeChat_Reproduce_Footer.png)
+- [Footer for WeChat, type i](http://cnpolitics.github.io/presskit/png/WeChat_Footer_I.png)
+- [Footer for WeChat, type ii](http://cnpolitics.github.io/presskit/png/WeChat_Footer_II.png)
